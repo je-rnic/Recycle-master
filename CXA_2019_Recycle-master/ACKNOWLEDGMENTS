@@ -1,0 +1,20 @@
+This application uses Open Source components. 
+You can find the source code of their open source projects along with license information below.
+
+trashnet https://github.com/garythung/trashnet
+Copyright (c) 2017 Gary Thung
+License (MIT) https://github.com/garythung/trashnet/blob/master/LICENSE
+
+pyzbar https://pypi.org/project/pyzbar/
+Copyright (c) 2016 The Trustees of the Natural History Museum, London (Lawrence Hudson)
+pyzbar is distributed under the MIT license (https://github.com/NaturalHistoryMuseum/pyzbar/blob/master/LICENSE.txt). 
+The zbar shared library is distributed under the GNU Lesser General Public License, version 2.1 
+
+tensorflow https://github.com/tensorflow/tensorflow
+Copyright 2019 The TensorFlow Authors.
+License (Apache License 2.0) https://github.com/tensorflow/tensorflow/blob/master/LICENSE
+
+Machine Learning Code
+Chris Dahms MicrocontrollersAndMore
+https://github.com/MicrocontrollersAndMore/TensorFlow_Tut_2_Classification_Walk-through
+
