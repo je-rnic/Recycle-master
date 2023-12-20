@@ -1,0 +1,1 @@
+sshpass -p PASSWORD scp /home/pi/cam/capture.jpg nickie@192.168.8.171:"C:\Users\nicki\Desktop\Computing"

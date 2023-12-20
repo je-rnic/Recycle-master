@@ -1,0 +1,1 @@
+sshpass -p PASSWORD ssh nickie@10.143.209.103 "cd C:\Users\nicki\PycharmProjects\hackathon\python_main && C:\Users\nicki\PycharmProjects\hackathon\venv\Scripts\python.exe  main.py"
